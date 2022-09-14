@@ -10,6 +10,7 @@
 		<!-- Sidebar -->
 		<?php include("include/sidebar.php") ?>
 		<!-- End Sidebar -->
+		<!-- content -->
 		<div class="main-panel">
 			<div class="content">
 				<div class="page-inner">
@@ -1286,11 +1287,11 @@
 				</div>
 			</footer>
 		</div>
-		
+		<!-- End content -->
 		<!-- Custom template | don't include it in your project! -->
 		<?php include("include/custom.php") ?>
 		<!-- End Custom template -->
 	</div>
-
+	<?php include("include/script.php") ?>
 </body>
 </html>

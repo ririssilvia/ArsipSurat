@@ -107,10 +107,7 @@
 								</div>
                 
 							</div>
-							<button class="btn btn-primary btn-round ml-auto" data-toggle="modal" data-target="#addRowModal">
-											<i class="fa fa-plus"></i>
-											Arsipkan Surat
-										</button>
+							<a href="unggah.php"><button class="btn btn-primary btn-round ml-auto" >Arsipkan Surat</button></a>
 						</div>
 				</div>
 			</div>

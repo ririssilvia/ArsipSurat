@@ -10,13 +10,13 @@
 						</li>
 						<li class="nav-item active">
 						    <a href="index.php">
-								<i class="fas fa-layer-group"></i>
+							<i class="fas fa-star"></i>
 								<p>Arsip</p>
 							</a>
 						</li>
 						<li class="nav-item">
 						<a href="about.php">
-								<i class="fas fa-th-list"></i>
+						<i class="fas fa-info-circle"></i>
 								<p>About</p>
 							</a>
 						</li>

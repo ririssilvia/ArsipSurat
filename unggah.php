@@ -40,7 +40,7 @@
                             <div class="card-body">
                                 <h5 class="card-title"></h5>
                                 <!-- Horizontal Form -->
-                                <form action="add.php" method="POST" enctype="multipart/form-data">
+                                <form action="tambah.php" method="POST" enctype="multipart/form-data">
                                     <div class="row mb-3">
                                         <label for="inputEmail3" class="col-sm-2 col-form-label">Nomor Surat</label>
                                         <div class="col-sm-10">

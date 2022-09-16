@@ -4,7 +4,7 @@ Aplikasi arsip surat berbasis website yang digunakan untuk sertifikasi BNSP-DIKS
 # Hasil Project
 
 ### Halaman Index Terdapat Fitur Search, unggah data arsip surat, hapus, download, lihat detail
-![plot](images/1.png)
+![plot](images/1.PNG)
 
 ### Halaman unggah data arsip surat
 ![plot](images/2.png)

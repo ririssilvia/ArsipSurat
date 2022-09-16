@@ -27,7 +27,7 @@ Aplikasi arsip surat berbasis website yang digunakan untuk sertifikasi BNSP-DIKS
 ![plot](images/12.PNG)
 
 ### Halaman cari data arsip surat
-![plot](images/14.PNG)
+![plot](images/14.png)
 
 ### Halaman menu about
 ![plot](images/13.PNG)
